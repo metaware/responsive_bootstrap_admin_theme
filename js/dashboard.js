@@ -23,6 +23,12 @@ var data = {
 // var ctx = document.getElementById("myChart").getContext("2d");
 // new Chart(ctx).Line(data);
 
+
+$(window).resize(function(){
+	$(".sidebar").css("height", "");
+});
+
+
 $(document).ready(function(){
 	$("li.menu").not(".sub_menu li").click(function(){
 		$(this).find(".sub_menu").toggle();
