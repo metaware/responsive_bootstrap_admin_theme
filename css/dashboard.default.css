@@ -1,0 +1,24 @@
+.navbar-inverse {
+	background-color: #34383c;
+}
+
+.navbar-brand{
+  background-color: #1e2226;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  background: #34383c;
+}
+
+.navbar-brand-container{
+  background: #1e2226;
+}
+
+.navbar-brand:hover{
+  background-color: #1e2226;
+}
+
+.navbar-inverse  a.navbar-brand:hover{
+  background-color: #1e2226;
+  background: url("../images/logo-hover.png");
+}
