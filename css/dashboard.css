@@ -341,21 +341,6 @@ div.fc-ltr .fc-event-hori.fc-event-end, .fc-rtl div.fc-event-hori.fc-event-start
   border: 1px solid #ccc;
 }
 
-.fc-header span.fc-button{
-  border-radius: 0px;
-  color: #FFF;
-  
-}
-
-div.fc-state-down, .fc-state-active, span.fc-button {
-  background-color: #35495e;
-}
-
-div.fc-state-up{
-  background-color: red;
-}
-
-
 
 
 
