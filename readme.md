@@ -1,7 +1,7 @@
 Responsive Bootstrap Admin Theme
 =====================
 
-<a href='http://metaware.github.io/responsive_bootsrap_admin_theme/' target="_blank">Admin Theme for Bootstrap 0.1</a>
+<a href='http://metaware.github.io/responsive_bootstrap_admin_theme/' target="_blank">Admin Theme for Bootstrap 0.1</a>
 ===================
 
 A generic admin theme built with Bootstrap free for both personal and commercial use. 
@@ -14,7 +14,7 @@ Pages:
 - Full Calendar (Viewing calendar, adding events, dragging events)
 
 Demo:
-http://metaware.github.io/responsive_bootsrap_admin_theme/#
+http://metaware.github.io/responsive_bootstrap_admin_theme/#
 
 ### Credits
  * [Bootstrap](http://getbootstrap.com/)
