@@ -1,7 +1,7 @@
 Responsive Bootstrap Admin Theme
 =====================
 
-<a href='https://github.com/VinceG/Bootstrap-Admin-Theme-3' target="_blank">Admin Theme for Bootstrap 0.1</a>
+<a href='http://metaware.github.io/responsive_bootsrap_admin_theme/' target="_blank">Admin Theme for Bootstrap 0.1</a>
 ===================
 
 A generic admin theme built with Bootstrap free for both personal and commercial use. 
